@@ -1,21 +1,17 @@
 ### Hi there I'm Partha Mandal 👋
 
-I'm a Cloud Advocate Manager at Microsoft, and have had the privilege of working with a bunch of super smart educators and students utilizing Microsoft developer tools and services. 
 
-I'm extremely passionate about developer productivity and collaboration, and in particular, helping educators and students showcase their developer skills and use of Microsoft technologies. I lead and contribute an amazing team of Cloud Advocates and lead a number of Open Source projects, helping share ideas and foster innovation across various teams and the communites. 
-
-I 💖 Visual Studio Code and m365 and in particular, there extensibility ecosystem of extensions and connectors. As a result, I have a number of projects looking at extensions and connectors that allow me to explore new ideas in academic developer collaboration and knowledge sharing:
 
 <div id="badges" align="center">
-  <a href="https://linkedin.com/in/leestott">
+  <a href="https://www.linkedin.com/in/partha-mandal-856801182">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/lee_stott">
+  <a href="https://x.com/ParthaM57355838">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <h1>
-Welcome to my Github Profile Page
+Welcome to my Github Profile
 </h1>
 </div>
 
@@ -33,14 +29,7 @@ Welcome to my Github Profile Page
 ### :hammer_and_wrench: Languages and Tools :
 <div>
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Juypter" alt="Jupyter" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="RStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MS SqlServer" alt="MS SqlServer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -51,11 +40,7 @@ Welcome to my Github Profile Page
 
 ---
 
-### :fire: My Stats :
-
-[![Lee Stott GitHub stats](https://github-readme-stats.vercel.app/api?username=leestott&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=leestott&theme=cobalt)](https://git.io/streak-stats)
+### :fire: Most used languages :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
