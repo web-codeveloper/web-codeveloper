@@ -66,22 +66,20 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 # 📂 Featured Projects  
 
-### 🔹 Christtube  
+### 🔹 Christtube [🌐 christtube.com](https://christtube.com) 
 A next-generation **all-in-one social media platform** with real-time communication and media streaming.  
 - 💬 Implemented **real-time one-on-one and group chat** using **Socket.io** with low latency.  
 - 🎥 Engineered **video calls, live streaming with audience interaction**, and **group video conferencing with screen-sharing** using **WebRTC**.  
 - 📰 Developed **post creation, likes, comments, sharing, event management, and news updates** to enhance user engagement.  
 - 🎶 Integrated a **music app with podcasts, playlist creation, and personalized recommendations** to improve user retention.  
 
---
 
-### 🔹 Holy Match USA  
+### 🔹 Holy Match USA [🌐 holymatchusa.com](https://holymatchusa.com) 
 A **matrimony platform** designed for personalized matchmaking and seamless communication.  
 - ❤️ Partner search and **AI-driven suggested profiles** based on partner preferences.  
 - 💬 Real-time **chat, voice call, and video call** using **Socket.io and WebRTC** for better user interaction.  
 - 🛠️ Built with **Node.js, Express, React.js, and MongoDB** for scalability and performance.  
 
---
 
 ### 🔹 Portfolio Website [🌐 partha.co.in](https://partha.co.in)  
 My personal **portfolio site** showcasing projects, skills, and achievements.  
@@ -89,7 +87,6 @@ My personal **portfolio site** showcasing projects, skills, and achievements.
 - 🖼️ Interactive design with a modern, minimal, and professional look.  
 - 🔗 Serves as a hub for all my work and open-source contributions.
   
---
 
 ### 🔹 Sylis Healthcare  
 A healthcare solution for seamless integration of diagnostics into physician consultations.  
