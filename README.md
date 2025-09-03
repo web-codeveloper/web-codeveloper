@@ -12,10 +12,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<h1>
-Welcome to my Github Profile
-</h1>
-</div>
 
 ---
 
