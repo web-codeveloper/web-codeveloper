@@ -2,19 +2,18 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi,+I'm+Partha!+👋&fontSize=40&fontAlignY=35" />
 </p>
 
-
-
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/partha-mandal-856801182">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/partha-mandal-856801182" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/ParthaM57355838">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://x.com/ParthaM57355838" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge"/>
   </a>
-  <a href="https://partha.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=chrome&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://partha.co.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
+
 
 ---
 
@@ -52,11 +51,14 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 **Database:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Other Tools:**  
+### 🔗 Real-Time & Communication  
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+### 🛠️ DevOps & Tools  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
