@@ -38,17 +38,21 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 ## 🚀 Tech Stack  
 
-**Frontend & Mobile:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+## 🚀 Tech Stack  
+
+### 🖥️ Frontend & Mobile  
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend:**  
+### ⚙️ Backend  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-**Database:**  
+### 🗄️ Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 
 ### 🔗 Real-Time & Communication  
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
@@ -56,8 +60,9 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 ### 🛠️ DevOps & Tools  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-4285F4?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ---
 
