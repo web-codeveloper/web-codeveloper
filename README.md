@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://partha.co.in">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=chrome&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
