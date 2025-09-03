@@ -11,13 +11,16 @@
   <a href="https://x.com/ParthaM57355838">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://partha.co.in">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 ---
 
 # 💻 About Me  
 
-I am a **Web Developer** with **4+ years of hands-on experience** building **scalable, dynamic, and user-focused web applications**. My expertise lies in developing **end-to-end solutions** using modern technologies such as **Ionic, Node.js, and MongoDB**, with a strong focus on performance, maintainability, and seamless user experience.  
+I am a **Web Developer** with **4+ years of hands-on experience** building **scalable, dynamic, and user-focused web applications**. My expertise lies in developing **end-to-end solutions** using modern technologies such as **React.js, Node.js, Express.js, MongoDB and Ionic Framework**, with a strong focus on performance, maintainability, and seamless user experience.  
 
 ---
 
@@ -38,9 +41,9 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 ## 🚀 Tech Stack  
 
 **Frontend & Mobile:**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -60,24 +63,15 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=web-codeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=web-codeveloper&theme=radical" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codeveloper&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
 ---
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)  
-
----
-
-⚡ *“Code is more than syntax—it’s a way to shape ideas into impactful solutions.”*  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
