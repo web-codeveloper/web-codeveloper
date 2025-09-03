@@ -1,9 +1,7 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi,+I'm+Partha!+👋&fontSize=40&fontAlignY=35" />
-  <h3 align="center">🚀 Web Developer | Node.js | Ionic | MongoDB | React</h3>
 </p>
-
 
 
 <div id="badges" align="center">
