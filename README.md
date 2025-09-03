@@ -36,7 +36,7 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 ---
 
-## 🚀 Tech Stack  
+# 🚀 Tech Stack  
 
 ### 🖥️ Frontend & Mobile  
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -64,7 +64,7 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 ---
 
-## 📊 GitHub Stats  
+# 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=web-codeveloper&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
