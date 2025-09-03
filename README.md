@@ -1,4 +1,6 @@
-### Hi there I'm Partha Mandal 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi,+I'm+Partha!+👋&fontSize=40&fontAlignY=35" />
+</p>
 
 
 
@@ -16,9 +18,6 @@ Welcome to my Github Profile
 </div>
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi,+I'm+Partha!+👋&fontSize=40&fontAlignY=35" />
-</p>
 
 # 💻 About Me  
 
