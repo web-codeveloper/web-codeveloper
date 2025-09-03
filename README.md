@@ -38,7 +38,7 @@ I thrive in **collaborative development teams**, where I can contribute to creat
 
 ## 🚀 Tech Stack  
 
-#### 🖥️ Frontend & Mobile  
+### 🖥️ Frontend & Mobile  
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -75,42 +75,7 @@ I thrive in **collaborative development teams**, where I can contribute to creat
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=web-codeveloper&layout=compact&theme=radical" alt="Top Languages" height="150"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=footer"/>
 </p>
 
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-### :fire: Most used languages :
-
-[![Top Langs](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partha-mandal-856801182)
-
----
-
-### :house: Projects
-
-- [Microsoft Open Source Curricula](https://aka.ms/curricula)
-- [Microsoft Phi-3Cookbook](https://github.com/microsoft/phi-3cookbook)
-- [Microsoft PyByrt](https://github.com/microsoft/pybryt)
-- [Microsoft Azure Automatic Grading Engine](https://github.com/microsoft/AzureAutomaticGradingEngine)
-- [Haskelly VScode Haskel Extension](https://marketplace.visualstudio.com/items?itemName=UCL.haskelly)
-- [Project Fizzyo](https://github.com/Fizzyo)
-
----
