@@ -21,7 +21,7 @@ Welcome to my Github Profile
 scalable, eﬃcient, and user-centric solutions, I aim to apply my technical expertise to innovative projects that enhance functionality and
 user experience within collaborative development teams.
 
-- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lee_stott)
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partha-mandal-856801182)
 
 ---
 
