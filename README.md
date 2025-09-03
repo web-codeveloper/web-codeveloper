@@ -17,12 +17,11 @@ Welcome to my Github Profile
 
 ---
 ### About Me :
-- :cloud: Principal Cloud Advocate Manager at Microsoft, contributing to the advancement and adoption of Microsoft technologies among students and educators. My team is based across EMEA and the US. We are focused on AI, Power Platform, Fusion Development, Machine Learning and Data Science.
-- :mortar_board: I am a Honorary Associate Professor in the Software Systems Engineering Group, Department of Computer Science, University College London. He specialises in Project and Problem-based Learning.
-- ✍️ I create learning contents on Data and Tech - Modern Workplace, Low-Code/No-Code Development, Data Science, Machine Learning and Artificial Intelligence
-- :loudspeaker: I am available for speaking engagement on student empowerment
+- Web developer with 4+ years of experience building dynamic web applications using Ionic, Node.js and MongoDB. Specializing in creating
+scalable, eﬃcient, and user-centric solutions, I aim to apply my technical expertise to innovative projects that enhance functionality and
+user experience within collaborative development teams.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lee_stott)
+- :mailbox:How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lee_stott)
 
 ---
 
@@ -42,7 +41,7 @@ Welcome to my Github Profile
 
 ### :fire: Most used languages :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leestott&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/partha-mandal-856801182)
 
 ---
 
