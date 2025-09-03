@@ -80,10 +80,7 @@ A next-generation **all-in-one social media platform** with real-time communicat
 A **matrimony platform** designed for personalized matchmaking and seamless communication.  
 - ❤️ Partner search and **AI-driven suggested profiles** based on partner preferences.  
 - 💬 Real-time **chat, voice call, and video call** using **Socket.io and WebRTC** for better user interaction.  
-- 🛠️ Built with <span style="color:#f39c12; font-weight:bold">Node.js</span>, 
-<span style="color:#27ae60; font-weight:bold">Express</span>, 
-<span style="color:#61dafb; font-weight:bold">React.js</span>, and 
-<span style="color:#4db33d; font-weight:bold">MongoDB</span> for scalability and performance.  
+- 🛠️ Built with **Node.js**, **Express**, **React.js**, and **MongoDB** for scalability and performance.  
 
 
 ### 🔹 Portfolio Website [🌐 partha.co.in](https://partha.co.in)  
