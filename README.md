@@ -1,11 +1,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Hi,+I'm+Partha!+👋&fontSize=40&fontAlignY=35" />
+  ### 🚀 Web Developer | Node.js | Ionic | MongoDB | React
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,100:a82da8&height=60&section=header&text=Web+Developer+|+Node.js+|+Ionic+|+MongoDB+|+React&fontSize=18&fontColor=ffffff" />
-</p>
 
 
 <div id="badges" align="center">
